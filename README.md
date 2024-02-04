@@ -1,9 +1,9 @@
 # To-do-App-PHP
 To-Do app made with PHP, HTML, CSS Y BOOTSTRAP
 
-Esta es una sencilla aplicación de lista de tareas (To-Do) desarrollada en PHP que utiliza WampServer, PHP 8.2.13, MySQL 8.2 y Apache 2.4.58 para almacenar usuarios y sus tareas asociadas.
+Esta es una sencilla aplicación de lista de tareas (To-Do) desarrollada en PHP siegiendo el patrón MVC que utiliza WampServer, PHP 8.2.13, MySQL 8.2 y Apache 2.4.58 para almacenar usuarios y sus tareas asociadas.
 Se ha realizado un simple login, con una validadción muy sencilla y uso de bbdd par guardar las tareas y usuarios registrados.
-
+La he realizado para aprender y prácticar con PHP el tema de las sesiones, modelo-vista-controlador, formularios,etc.
 
 Características Principales
 
